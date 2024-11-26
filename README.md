@@ -1,6 +1,5 @@
 # ⭐️ Shindanai Sudprasert ⭐️
-![patr-patrick-star](https://github.com/user-attachments/assets/75bf2be2-b3c5-4369-b336-958c6f0ac4d2)
-
+![cat-spin-3d-cat](https://github.com/user-attachments/assets/971f455a-7346-4f94-bb31-44c3c1f84ebe)
 
 
 **`⛓️‍💥Software Developer/Scripter/Modeler`**
