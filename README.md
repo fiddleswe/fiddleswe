@@ -1,15 +1,18 @@
 # ⭐️ Shindanai Sudprasert ⭐️
+![patr-patrick-star](https://github.com/user-attachments/assets/75bf2be2-b3c5-4369-b336-958c6f0ac4d2)
+
+
+
 **`⛓️‍💥Software Developer/Scripter/Modeler`**
 
-![huh-cat](https://github.com/user-attachments/assets/11891818-6c90-426f-bdfd-366c0832c738)
-
-
-📖 Hello! I'm a high school student, a self-taught programmer, and a game developer working on various games across different platforms. I'm also studying computer engineering. I'll be sharing my game development progress here, along with the scripts and code I build from the ground up. I also do some modeling and am still learning. I love solving problems through programming and enjoy exploring and traveling the world!
+Hi! I'm a high school student, programmer, and game developer working on games across platforms like Roblox. I'm studying computer engineering and web development. I'll share my progress, scripts, and code here, and I’m also learning modeling. I love solving problems through programming and enjoy exploring the world!
 
 <p align="left">
     <a href="https://github.com/smart007sootprasert?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/smart007sootprasert?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/smart007sootprasert?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/smart007sootprasert?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   </p>
+
+  Message me through social media!
 
 ## 🔥 Programming Languages
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
