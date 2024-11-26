@@ -1,5 +1,8 @@
 # ⭐️ Shindanai Sudprasert
-![cat-spin-3d-cat](https://github.com/user-attachments/assets/971f455a-7346-4f94-bb31-44c3c1f84ebe)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ce364498-ba21-44d8-9b9e-78e1e9938db6" alt="gato-guitarra">
+</div>
+
 
 
 **`⛓️‍💥Software Developer/Scripter/Modeler`**
@@ -12,11 +15,13 @@ Hi! I'm a high school student, programmer, and game developer working on games a
   </p>
 
   Message me through social media!
+  <p align="left"><a href="https://twitter.com/@divine_dawnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@divine_dawnn" height="30" width="40" /></a>
+</p>
 
 ## 🔥 Programming Languages
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
