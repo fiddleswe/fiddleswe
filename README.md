@@ -4,7 +4,7 @@
 ![huh-cat](https://github.com/user-attachments/assets/11891818-6c90-426f-bdfd-366c0832c738)
 
 
-📖 Hello! I'm a high school student, a self-taught scripter, and a game developer working on various games across different platforms. I'm also learning computer engineering. I'll be sharing my game development progress here, along with the scripts and code I build from the ground up. I also do some modeling and am still learning. I love solving problems through coding during game development, and I enjoy scripting, creating games, and web development. When I'm not on my computer, I enjoy traveling and exploring!
+📖 Hello! I'm a high school student, a self-taught programmer, and a game developer working on various games across different platforms. I'm also studying computer engineering. I'll be sharing my game development progress here, along with the scripts and code I build from the ground up. I also do some modeling and am still learning. I love solving problems through programming and enjoy exploring and traveling the world!
 
 <p align="left">
     <a href="https://github.com/smart007sootprasert?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/smart007sootprasert?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
