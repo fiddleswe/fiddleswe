@@ -1,4 +1,4 @@
-# ⭐️ Shindanai Sudprasert ⭐️
+# ⭐️ Shindanai Sudprasert
 ![cat-spin-3d-cat](https://github.com/user-attachments/assets/971f455a-7346-4f94-bb31-44c3c1f84ebe)
 
 
