@@ -7,7 +7,7 @@
 
 **`⛓️‍💥Software Developer/Scripter/Modeler`**
 
-Hi! I'm a high school student, programmer, and game developer working on games across platforms like Roblox. I'm studying computer engineering and web development. I'll share my progress, scripts, and code here, and I’m also learning modeling. I love solving problems through programming and enjoy exploring the world!
+Hi! I'm a high school student, programmer, and game developer working on games across platforms. I'm studying computer engineering and web development. I'll share my progress, scripts, and code here, and I’m also learning modeling. I love solving problems through programming and enjoy exploring the world!
 
 <p align="left">
     <a href="https://github.com/smart007sootprasert?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/smart007sootprasert?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
