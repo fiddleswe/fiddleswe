@@ -1,4 +1,4 @@
-# ⭐️ Shindanai Sudprasert
+# ⭐️ smart007sootprasert
 <div align="center">
     <img src="https://github.com/user-attachments/assets/ce364498-ba21-44d8-9b9e-78e1e9938db6" alt="gato-guitarra">
 </div>
