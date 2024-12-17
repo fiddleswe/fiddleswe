@@ -17,10 +17,6 @@ You can find my works or scripts in my repository!
     <a href="https://github.com/smart007sootprasert?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/smart007sootprasert?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   </p>
 
-  Message me through social media!
-  <p align="left"><a href="https://twitter.com/@divine_dawnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@divine_dawnn" height="30" width="40" /></a>
-</p>
-
 ## 🔥 Programming Languages
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
