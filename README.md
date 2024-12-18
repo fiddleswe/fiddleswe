@@ -4,7 +4,7 @@
 
 **`⛓️‍💥Software Developer/Programmer/Modeler`**
 
-Hi! I'm a high school student, programmer, and game developer working on games across platforms. I'm studying computer engineering and web development. I'll share my progress, scripts, and code here, and I’m also learning modeling. I love solving problems through programming and enjoy exploring the world!
+Hello! I'm a high school student, programmer, and game developer working on games across platforms. I'm studying computer engineering and web development. I'll share my progress, scripts, and code here, and I’m also learning modeling. I love solving problems through programming and enjoy exploring the world!
 
 You can find my works or scripts in my repository!
 
