@@ -2,7 +2,7 @@
     <img src="https://github.com/user-attachments/assets/ce364498-ba21-44d8-9b9e-78e1e9938db6" alt="gato-guitarra">
 </div>
 
-**`⛓️‍💥Software Developer/Programmer/Modeler`**
+**`⛓️💥Software Developer/Programmer/Modeler`**
 
 Hello! I'm a high school student, programmer, and game developer working on games across platforms. I'm studying computer engineering and web development. I'll share my progress, scripts, and code here, and I’m also learning modeling. I love solving problems through programming and enjoy exploring the world!
 
@@ -34,6 +34,5 @@ You can find my works or scripts in my repository!
 <br />
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart007sootprasert&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart007sootprasert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
-
