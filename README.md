@@ -34,6 +34,6 @@ You can find my works or scripts in my repository!
 <br />
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart007sootprasert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart007sootprasert&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
