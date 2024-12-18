@@ -26,9 +26,20 @@ You can find my works or scripts in my repository!
 <br /><br />
 
 ## 🔥 GitHub Stats
+
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=smart007sootprasert&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
+
+<br />
+
+<div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=smart007sootprasert&theme=dark&hide_border=false" alt="GitHub Streak">
+</div>
+
+<br />
+
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart007sootprasert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
