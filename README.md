@@ -2,6 +2,7 @@
     <img src="https://github.com/user-attachments/assets/ce364498-ba21-44d8-9b9e-78e1e9938db6" alt="gato-guitarra">
 </div>
 
+<h1>MintheStar</h1>
 **`⛓️enthusiasm person`**
 
 Hello! I'm a high school student and a web developer, I'm studying computer engineering/computer science and web development. I'll share my progress and code here. I love solving problems through coding and enjoy exploring the world!
