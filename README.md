@@ -4,7 +4,7 @@
 
 **`⛓️enthusiasm person`**
     
-Hello, my name is M. I'm a high school student and a web developer, I'm studying computer engineering/computer science and web development. I'll share my progress and code here. I love solving problems through coding and enjoy exploring the world.
+Hello, my name is Smart. I'm a high school student and a web developer, I'm studying computer engineering/computer science and web development. I'll share my progress and code here. I love solving problems through coding and enjoy exploring the world.
 
 You can find my works in my repository!
 
