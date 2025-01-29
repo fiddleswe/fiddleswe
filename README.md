@@ -4,9 +4,11 @@
 
 **`⛓️enthusiasm person`**
     
-Hello, my name is Smart. I'm a high school student and a web developer, I'm studying computer engineering/computer science and web development. I'll share my progress and code here. I love solving problems through coding and enjoy exploring the world.
+Hello, my name is Smart. I'm a high school student and a web developer. I'm studying computer engineering/computer science. I'll share my progress and code here. I love solving problems through coding and enjoy exploring the world.
 
-You can find my works in my repository!
+I'm interested in full-stack development, working with both front-end and back-end. I enjoy learning new things in computer programming and improving my skills. I also usually spend my time building website projects and exploring something new.
+
+You can find my creations in my repository!
 
 <p align="left">
     <a href="https://github.com/smart007sootprasert?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/smart007sootprasert?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
