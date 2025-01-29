@@ -6,7 +6,7 @@
     
 Hello, my name is Smart. I'm a high school student and a web developer. I'm studying computer engineering/computer science. I'll share my progress and code here. I love solving problems through coding and enjoy exploring the world.
 
-I'm interested in full-stack development, working with both front-end and back-end. I enjoy learning new things in computer programming and improving my skills. I also usually spend my time building website projects and exploring something new.
+I'm interested in **full-stack development**, working with both front-end and back-end. I enjoy learning new things in computer programming and improving my skills. I also usually spend my time building website projects and exploring something new.
 
 You can find my creations in my repository!
 
