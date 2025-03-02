@@ -24,7 +24,6 @@ These are technologies that I studied and use for creating my website applicatio
 
 <br></br>
 ### Framework
-<img align="left" alt="Boostrap" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-
+<img align="left" alt="Boostrap" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 
