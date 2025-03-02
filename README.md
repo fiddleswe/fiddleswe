@@ -1,4 +1,5 @@
-<img align="center" height="300px" width="1000px" src="https://i.pinimg.com/736x/43/a3/6d/43a36def915b087c7b8a4e0e99a6d5ab.jpg"/>
+<img align="center" height="250px" width="1000px" src="https://i.pinimg.com/736x/6c/bf/dd/6cbfdd5e95b12f23f9715b9862a6da97.jpg"/>
+
 
 **`Computer enthusiasm`**
 
