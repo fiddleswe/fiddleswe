@@ -1,6 +1,6 @@
-**`⛓️ computer science enthusiasm`**
+**`Computer enthusiasm`**
     
-Hello, my name is Smart. I'm a high school student and a front-end dveloper. I'm studying and pursuing computer science. I'll share my progress and code here. I love solving problems through coding and enjoy exploring the world.
+Hello, my name is Smart, I'm a high school student and currently pursuing computer science, I love coding and software development, I also built stuff like website application.
 
 I'm interested in **front-stack development** and **full-stack development** as well!, working on front-end and creating an application interfaces for website application and developing a functional back-end application for a website application. Coding and innovating is my passion and It's what I love, learning something new about computer is what I likes!
 
