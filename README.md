@@ -1,8 +1,4 @@
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/ce364498-ba21-44d8-9b9e-78e1e9938db6" alt="gato-guitarra">
-</div>
-
-**`⛓️enthusiasm person`**
+**`⛓️ computer science enthusiasm`**
     
 Hello, my name is Smart. I'm a high school student and a web developer. I'm studying computer engineering/computer science. I'll share my progress and code here. I love solving problems through coding and enjoy exploring the world.
 
