@@ -4,7 +4,7 @@ Hello, my name is Smart. I'm a high school student and a front-end dveloper. I'm
 
 I'm interested in **front-stack development** and **full-stack development** as well!, working on front-end and creating an application interfaces for website application and developing a functional back-end application for a website application. Coding and innovating is my passion and It's what I love, learning something new about computer is what I likes!
 
-You can find my creations in my repository!
+Check out my creations too!
 
 <p align="left">
     <a href="https://github.com/MintheStar?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MintheStar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
