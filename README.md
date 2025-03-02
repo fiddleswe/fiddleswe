@@ -1,8 +1,8 @@
 **`⛓️ computer science enthusiasm`**
     
-Hello, my name is Smart. I'm a high school student and a web developer. I'm studying computer engineering/computer science. I'll share my progress and code here. I love solving problems through coding and enjoy exploring the world.
+Hello, my name is Smart. I'm a high school student and a front-end dveloper. I'm studying and pursuing computer science. I'll share my progress and code here. I love solving problems through coding and enjoy exploring the world.
 
-I'm interested in **front-stack development**, working on front-end and creating an application interfaces for website application. I enjoy learning new things in computer programming and improving my skills. I also usually spend my time building website projects and exploring something new.
+I'm interested in **front-stack development** and **full-stack development** as well!, working on front-end and creating an application interfaces for website application and developing a functional back-end application for a website application. Coding and innovating is my passion and It's what I love, learning something new about computer is what I likes!
 
 You can find my creations in my repository!
 
@@ -12,10 +12,10 @@ You can find my creations in my repository!
 </p>
 
 ## 🔥 Technologies
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+### Front-end
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+### Back-end
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
