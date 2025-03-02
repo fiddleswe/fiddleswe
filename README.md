@@ -14,10 +14,17 @@ Check out my creations too!
 ## 🔥 Technologies
 These are technologies that I studied and use for creating my website application and software.
 ### Front-end
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 
 <br></br>
 ### Back-end
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+
+<br></br>
+### Framework
+<img align="left" alt="Boostrap" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+
+
