@@ -1,13 +1,12 @@
 <img align="center" height="200px" width="1000px" src="https://i.pinimg.com/736x/6c/bf/dd/6cbfdd5e95b12f23f9715b9862a6da97.jpg"/>
 
 
-**`Computer enthusiasm`**
+**`Computer enthusiasm/Coder`**
 
-Hello, my name is Smart, I'm a high school student and currently pursuing in computer science, I love coding and website development, I also built stuff like website application. I enjoy many things about Internet and computer.
-
-I'm interested in **front-stack development** and **full-stack development** as well!, working on front-end and creating an application interfaces for website application and developing a functional back-end application for a website application. Coding and innovating is my passion and It's what I love, learning something new about computer is what I likes!
-
-Check out my creations, or contact me through my gmail for work!
+<p align="center">Hello, my name is Smart, I'm a high school student and currently pursuing in computer science, I love coding and website development, I also built stuff like website application. I enjoy many things about Internet and computer.</p>
+<p align="center">I'm interested in <strong>full-stack development!</strong> working on front-end and creating an application interfaces for website application and developing a functional back-end application for a website application. Coding and innovating is my passion and It's what I love, learning something new about computer is what I likes!</p>
+<br>
+<p align="center">Check out my creations, or contact me through my gmail for work!</p>
 
 <p align="left">
     <a href="https://github.com/MintheStar?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MintheStar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
