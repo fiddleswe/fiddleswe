@@ -1,4 +1,4 @@
-<img align="center" height="200px" width="1000px" src="https://i.pinimg.com/736x/6c/bf/dd/6cbfdd5e95b12f23f9715b9862a6da97.jpg"/>
+<img align="center" height="500px" width="1000px" src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif"/>
 
 
 **`Computer enthusiasm/Coder`**
