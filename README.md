@@ -1,7 +1,7 @@
 <img align="center" height="500px" width="1000px" src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif"/>
 
 
-**`Computer enthusiasm/Coder`**
+**`Computer enthusiast/Coder`**
 
 <p align="center">Hello, my name is <strong>Smart</strong>, I'm a high school student and currently pursuing in computer science, I love coding and website development, I also built stuff like website application. I enjoy many things about Internet and computer.</p>
 <p align="center">I'm interested in <strong>full-stack development!</strong> working on front-end and creating an application interfaces for website application and developing a functional back-end application for a website application. Coding and innovating is my passion and It's what I love, learning something new about computer is what I likes!</p>
