@@ -1,5 +1,6 @@
-<img align="center" height="500px" width="1000px" src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif"/>
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif" height="300px" width="1000px">
+</div>
 
 **`Computer enthusiast/Coder`**
 
