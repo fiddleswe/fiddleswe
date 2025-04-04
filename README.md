@@ -14,7 +14,7 @@
     <a href="https://github.com/MintheStar?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MintheStar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-## 🔥 Technologies
+## 🔥 Tech stacks
 These are technologies that I studied and use for creating my website application and software.
 ### Front-end
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
