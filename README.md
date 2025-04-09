@@ -24,6 +24,7 @@ These are technologies that I studied and use for creating my website applicatio
 <br></br>
 ### Back-end
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 
 <br></br>
 ### Framework
