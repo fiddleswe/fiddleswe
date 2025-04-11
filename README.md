@@ -7,7 +7,7 @@
 <p align="center">Hello, my name is <strong>Shindanai Sudprasert</strong>, I'm a high school student and currently pursuing in computer science, I love coding and website development, I also built stuff like website application. I enjoy many things about Internet and computer.</p>
 <p align="center">I'm interested in <strong>full-stack development!</strong> working on front-end and creating an application interfaces for website application and developing a functional back-end application for a website application. Coding and innovating is my passion and It's what I love, learning something new about computer is what I likes!</p>
 <br>
-<p align="center">Check out my creations, or you can contact me through my gmail for work!</p>
+<p align="center">Check out my creations</p>
 
 <p align="left">
     <a href="https://github.com/MintheStar?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MintheStar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
