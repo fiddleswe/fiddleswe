@@ -5,7 +5,10 @@
 
 **`Computer enthusiast/Coder`**
 
-<p align=";eft">Hello, my name is <strong>Shindanai Sudprasert</strong>, I'm a high school student and currently pursuing in computer science, I love coding and website development, I also built stuff like website application. I enjoy many things about Internet and computer. I'm interested in <strong>full-stack development,</strong> working on front-end and creating an application interfaces for website application and developing a functional back-end application for a website application. Coding and innovating is my passion and It's what I love, learning something new about computer is what I likes.</p>
+<p>Hello, my name is Shindanai Sudprasert. I'm a high school student currently pursuing computer science. I love coding and web development, and I enjoy building projects like web applications. I'm passionate about many aspects of the internet and computers.
+<br></br>
+I'm particularly interested in full-stack development—working on the front end to create user interfaces, as well as developing functional back-end systems for web applications. Coding and innovating are my passions, and I love learning new things about computers.
+</p>
 <br>
 
 <p align="left">
