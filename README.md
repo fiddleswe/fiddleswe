@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif" height="300px" width="1000px">
 </div>
+<br> 
 
 **`Computer enthusiast/Coder`**
 
@@ -8,8 +9,8 @@
 <br>
 
 <p align="left">
-    <a href="https://github.com/MintheStar?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MintheStar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/MintheStar?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MintheStar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <a href="https://github.com/FiddleTheFallen?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MintheStar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/FiddleTheFallen?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MintheStar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ## Tech stacks
