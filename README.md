@@ -11,15 +11,3 @@
     <a href="https://github.com/FiddleTheFallen?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MintheStar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-## Tech stacks
-These are technologies that I studied and use for creating my website application and software.
-<br></br>
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-
